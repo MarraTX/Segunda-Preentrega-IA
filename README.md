@@ -20,6 +20,7 @@
 
 #### Justificación de elecciones:
 #### La elección de utilizar modelos de IA para generar prompts se basa en la capacidad de estos modelos para proporcionar contenido rico y personalizado de manera eficiente. Las pruebas iniciales de los prompts en ChatGPT han demostrado que pueden generar descripciones y recomendaciones coherentes y útiles, validando la efectividad de esta aproximación.
+
 Conclusión
 
 #### Crear una plataforma web interactiva sobre películas ganadoras del Oscar a Mejor Película mediante la generación de prompts para modelos de IA aborda una necesidad significativa para las personas interesadas por el cine. Esta solución es viable dentro del marco del curso y tiene el potencial de proporcionar una experiencia enriquecida y personalizada a los usuarios, consolidando información valiosa en un solo lugar.
